@@ -67,7 +67,7 @@ Navigate to `http://localhost:3000` in your browser to view the app.
 
 The project is deployed on Vercel's free tier. You can access the live application at:
 
-[Live Application URL](#)
+[Live Application URL](https://lai-web-challenge.vercel.app/)
 
 ## API Reference
 
